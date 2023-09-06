@@ -1,0 +1,68 @@
+.all {
+  width: 900px;
+  height: 1250px;
+  background-color: #60c270;
+  padding: 50px;
+}
+main {
+  width: 850px;
+  height: 1200px;
+}
+.bmitext {
+  font-size: 100px;
+}
+.inputnone {
+  margin-top: 150px;
+}
+#submit {
+  background-color: #60c270;
+  color: #fff;
+}
+#inputinfo {
+  height: 50px;
+
+  border: none;
+  border-bottom: 4px solid #62c27a;
+}
+.btn1 {
+  background-color: #fff;
+  color: #111;
+}
+.btn2 {
+  background-color: #fff;
+  color: #111;
+}
+.btn3 {
+  background-color: #224467;
+  color: #fff;
+}
+input {
+  outline: none;
+}
+.buttem {
+  background-color: #224467;
+  color: white;
+}
+button {
+  outline: none;
+  border: none;
+}
+
+/* CSS for Male button */
+.male.clicked {
+  background-color: #224467; /* تغییر رنگ زمینه به آبی */
+  color: #fff; /* تغییر رنگ متن به سفید */
+}
+
+/* CSS for Female button */
+.female.clicked {
+  background-color: #62c27a; /* تغییر رنگ زمینه به صورتی */
+  color: #fff; /* تغییر رنگ متن به سفید */
+}
+
+.imginfo {
+  width: 50px;
+}
+.overr {
+  width: 50px;
+}
